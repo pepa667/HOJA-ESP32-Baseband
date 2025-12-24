@@ -345,8 +345,8 @@ void _si_fill_features(uint16_t pid, uint8_t sub_id, uint8_t *data)
                 feature_flags.gyroscope_supported       = 1;
                 feature_flags.left_analog_stick_supported       = 1;
                 feature_flags.right_analog_stick_supported      = 1;
-                feature_flags.left_analog_trigger_supported     = 1;
-                feature_flags.right_analog_trigger_supported    = 1;
+                feature_flags.left_analog_trigger_supported     = 0;
+                feature_flags.right_analog_trigger_supported    = 0;
                 feature_flags.rumble_supported     = 1;
                 feature_flags.player_leds_supported = 1;
 
