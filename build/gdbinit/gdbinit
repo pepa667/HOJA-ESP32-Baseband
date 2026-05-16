@@ -1,2 +1,2 @@
-source C:/Users/Mitch/GitRepos/HOJA-ESP32-Baseband/build/gdbinit/symbols
-source C:/Users/Mitch/GitRepos/HOJA-ESP32-Baseband/build/gdbinit/connect
+source /Users/pepa/Desktop/bebopCORE/fw_v3/build/gdbinit/symbols
+source /Users/pepa/Desktop/bebopCORE/fw_v3/build/gdbinit/connect
